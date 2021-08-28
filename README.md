@@ -33,3 +33,4 @@ Skills: NODE JS / VUE JS / PHP / JS / HTML / CSS
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coorreia)  
 
 ![Profile views](https://gpvc.arturio.dev/coorreia)  
+ ![github](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.gettyimages.com%2Fphotos%2Fmuenchen-fc-bayern-muenchen-boavista-porto-10-elpidio-silvaboavista-picture-id52892764%3Fs%3D612x612&f=1&nofb=1)              ![github](https://camo.githubusercontent.com/f1c0fc76d120f760664938edd8e1818f9d407b03f8ce7d306e12094d8853b6a0/687474703a2f2f692e696d6775722e636f6d2f6337476d414a662e706e67)
