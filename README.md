@@ -4,7 +4,7 @@
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-Skills: NODE JS / VUE JS / PHP / JS / HTML / CSS
+Skills: NO SKILL`S ST ALL
 
 - 🔭 I’m currently working on this page. 😛 
 - 🌱 I’m currently learning 🤗 
