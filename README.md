@@ -33,4 +33,4 @@ Skills: NO SKILL`S ST ALL
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=coorreia)  
 
 ![Profile views](https://gpvc.arturio.dev/coorreia)  
- ![github](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F57%2Fce%2Ff8%2F57cef8af94d1b973bcbba594d3385bac.gif&f=1&nofb=1)
+ ![github]()
